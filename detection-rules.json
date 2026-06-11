@@ -67,7 +67,7 @@
       "^https://[^/]*\\.googleadservices\\.com(/.*)?$",
       "^https://[^/]*\\.googlesyndication\\.com(/.*)?$",
       "^https://[^/]*\\.fox\\.com(/.*)?$",
-      "^https://[^/]*\\.site\\.com(/.*)?$"
+      "^https://([^/]+\\.)*site\\.com(/.*)?$"
       
     ],
     "context_indicators": {

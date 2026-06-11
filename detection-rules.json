@@ -59,7 +59,16 @@
       "^https:\\/\\/[^/]*\\.dynamics\\.com(/.*)?$",
       "^https:\\/\\/(?:[^/]*\\.)?zoom\\.us(/.*)?$",
       "^https:\\/\\/github\\.com(/.*)?$",
-      "^https:\\/\\/[^/]*\\.github\\.com(/.*)?$"
+      "^https:\\/\\/[^/]*\\.github\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$",
+      "^https://[^/]*\\.media-amazon\\.com(/.*)?$",
+      "^https://[^/]*\\.amazon-adsystem\\.com(/.*)?$",
+      "^https://[^/]*\\.googleapis\\.com(/.*)?$",
+      "^https://[^/]*\\.googleadservices\\.com(/.*)?$",
+      "^https://[^/]*\\.googlesyndication\\.com(/.*)?$",
+      "^https://[^/]*\\.fox\\.com(/.*)?$",
+      "^https://[^/]*\\.site\\.com(/.*)?$"
+      
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
